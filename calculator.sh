@@ -1,7 +1,10 @@
 #!/bin/bash
 
-a+02
+#Addition function
+a=1+2
 
-j+09283
+#Substraction
+b=3-$a
+
 
 This is my fist cli push
