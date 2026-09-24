@@ -7,4 +7,6 @@ a=1+2
 b=3-$a
 
 
+# Percentage
+d=5%
 This is my fist cli push
