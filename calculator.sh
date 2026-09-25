@@ -10,3 +10,7 @@ b=3-$a
 # Percentage
 d=5%
 This is my fist cli push
+
+#Multiplication
+c=$a*$b
+
